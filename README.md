@@ -28,3 +28,6 @@ The code for this project is written in Python and uses the following libraries:
 *   **numpy:** For numerical computing.
 *   **scikit-learn:** For machine learning, specifically linear regression.
 *   **matplotlib/seaborn:** For data visualization.
+
+## Model Used
+*   Linear Regression.
